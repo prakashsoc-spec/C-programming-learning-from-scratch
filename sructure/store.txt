@@ -1,0 +1,3 @@
+How are structure elements stored?
+
+-> they are stored in a continuius memory location

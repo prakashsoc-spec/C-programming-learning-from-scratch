@@ -1,0 +1,7 @@
+we can copy one structure into another.
+suppose 1st structure is a and another is b then
+
+a=b;
+
+the value of a is equal to the b;
+remember : we cann't do this things in strings.

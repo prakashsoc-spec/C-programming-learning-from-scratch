@@ -1,0 +1,8 @@
+union pokemon{
+    int hp;
+    int speed;
+    int atack;
+    char tier;
+};
+
+only one member can be accessed at a time.

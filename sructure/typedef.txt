@@ -1,0 +1,7 @@
+ type oldname newname;
+ computer treats new name as a old name
+ for example:
+   typedef float real number;
+   typedef int INTEGER;
+
+basically used to renaming anything.

@@ -1,0 +1,3 @@
+Nesting ins structure in basically used when one variable has more than half trait same as other and 
+we don't want to copy all the things.
+furthermore we can do nesting inside in nesting.
